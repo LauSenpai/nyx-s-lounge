@@ -1,3 +1,1 @@
-# nyx-s-lounge
-
-test uwu
+# Nyx's Lounge
